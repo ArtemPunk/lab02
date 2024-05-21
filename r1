@@ -1,0 +1,8 @@
+$ edit README.md
+$ git status
+$ git add .
+$ git commit -m"added sources"
+$ git push origin master
+Report
+$ cd ~/workspace/
+$ export LAB_NUMBER=02
